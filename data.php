@@ -10,6 +10,7 @@
          <?php
     		
            
+    
            require_once ('conn.php');
            
            $sql = "SELECT count(*) FROM COVID19";
